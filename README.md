@@ -1,6 +1,6 @@
 # The Dense Material Segmentation Dataset
 
-The Dense Material Segmentation Dataset (DMS) consists of 3 million polygon labels of material categories (metal, wood, glass, etc) for 44 thousand RGB images. The dataset is described in the research paper, [A Dense Material Segmentation Dataset for Indoor and Outdoor Scene Parsing](https://arxiv.org).
+The Dense Material Segmentation Dataset (DMS) consists of 3 million polygon labels of material categories (metal, wood, glass, etc) for 44 thousand RGB images. The dataset is described in the research paper, [A Dense Material Segmentation Dataset for Indoor and Outdoor Scene Parsing](https://arxiv.org/abs/2207.10614).
 
 ## Downloading
 
