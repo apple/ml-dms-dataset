@@ -1,0 +1,16 @@
+# To run: conda env create -f environment.yaml
+name: ml-dms
+channels:
+    - defaults
+    - pytorch
+dependencies:
+    - python=3.8
+    - pip
+    - cudatoolkit=10.2
+    - numpy
+    - pytorch=1.9.1
+    - torchvision=0.10.1
+    - configargparse
+    - pip:
+        - opencv-python-headless==4.4.0.42
+        - scipy==1.9.0
